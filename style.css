@@ -363,7 +363,7 @@ h1, h2, p {
 }
 
 .connexion-body, .creation-body {
-  background-image: url('images/Dogs 1.jfif');
+background-image: url("../images/Dogs.jfif");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
